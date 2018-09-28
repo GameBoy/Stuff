@@ -40,9 +40,9 @@ You can tell the type by the ribbon circuitry or connector color [(source)](http
 
 ### AGB-001 Model & AGS-101 Screen Pairing
 
-* **32 pin + Type-A: Perfect [(source)][1]**
-* 32 pin + Type-AB: Washed out and dim [(source)][1]
-* 40 pin + Type-A: Washed out and bright (tested). Possibly connect 103 to GND to fix [(source)][2] (Newer ribbon adapters do not have this issue)
+* **32 pin + Type-A: Perfect [(source)](https://gbatemp.net/threads/gba-backlight-AGB--001.328487/page-44#post-5465938)**
+* 32 pin + Type-AB: Washed out and dim [(source)](https://gbatemp.net/threads/gba-backlight-AGB--001.328487/page-44#post-5465938)
+* 40 pin + Type-A: Washed out and bright (tested). Possibly connect 103 to GND to fix [(source)](https://gbatemp.net/threads/gba-backlight-AGB--001.328487/page-44#post-5479603) (Newer ribbon adapters do not have this issue)
 * **40 pin + Type-AB: Perfect (tested)**
 
 
