@@ -23,7 +23,7 @@ You can tell the model by taking off the battery cover and looking at the mother
 
 ### AGS-101 Screen Types (All reproduction screens are Type A)
 
-You can tell the type by the ribbon circuitry or connector color [(source)][1]
+You can tell the type by the ribbon circuitry or connector color [(source)][https://gbatemp.net/threads/gba-backlight-agb-001.328487/page-44#post-5465938]
 
 * A: uniform widths, white connector
 * AB/B:  differing widths, brown connector
