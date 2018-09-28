@@ -7,7 +7,7 @@
 ### Requirements
 
 * AGB-001
-* ASS101 screen
+* AGS101 screen (Reproduction screens are availible online)
 * Ribbon adapter
 
 
