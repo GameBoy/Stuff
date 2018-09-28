@@ -1,9 +1,6 @@
 # AGB-001 Backlight Mod Instructions
 
 
-## AGB-001 Backlight Mod
-
-
 ### Requirements
 
 * AGB-001
